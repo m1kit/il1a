@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# PERSONAL
+
+*Name: Mikihito Matsuura
+*Organization: Tokyo Tech
+*Role: Bachelor
+
+# THANKS
+
+*Name: Mr.Defago
+*Organization: Tokyo Tech
+*Role: Professor
+
+# TECHNOLOGY COLOPHON
+  HTML5, CSS3
